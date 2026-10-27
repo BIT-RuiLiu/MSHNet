@@ -5,8 +5,8 @@ First of all, thank you to all relevant workers for your attention. Recently, ma
 | Dataset         | mIoU (x10(-2)) | Pd (x10(-2))|  Fa (x10(-6)) | Weights|
 | ------------- |:-------------:|:-----:|:-----:|:-----:|
 | IRSTD-1k | 67.87 | 92.86 | 8.88 | [new_weights](https://drive.google.com/file/d/1CSDwQG8xg7hv0_oGKa4NCEWUiMRU7eIs/view?usp=sharing) |
-You can also obtain all the weights via a Baidu Netdisk [link](https://pan.baidu.com/s/10TLP1RO5WyntPmXfCgYPUw?pwd=p5tb) (access code: pt5b). 
 
+You can also obtain all the weights via a Baidu Netdisk [link](https://pan.baidu.com/s/10TLP1RO5WyntPmXfCgYPUw?pwd=p5tb) (access code: pt5b). 
 
 ## Overview
 ![](assert/overview.png)
